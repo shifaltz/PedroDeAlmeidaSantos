@@ -1,4 +1,4 @@
-<h2 align="center">"Hello World" <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/>  Eu sou o Pedro de Almeida Santos <br> Seja bem vindo(a) ao meu perfil do GitHub!</h2>
+<h2 align="center">Eu sou o Pedro de Almeida Santos <br> Seja bem vindo(a) ao meu perfil do GitHub!</h2>
 
 - 🌏 São Paulo - Brasil
 - 💻 Formado no técnico de desenvolvimento de sistema pelo [Senai Jandira](https://jandira.sp.senai.br/)
