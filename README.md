@@ -6,10 +6,8 @@
 - 🌱   Aprendendo mais sobre desenvolvimento mobile (Flutter e React Native)
 ##
 ### ✉️ Entre em contato ###
-<a href="https://www.linkedin.com/in/pedro-almeida-santos-6a4569196/" target="_blank">
-<img src=""></a>
+<a href="https://www.linkedin.com/in/pedro-almeida-santos-6a4569196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Linkedin](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ##
 
 #### Linguagens e Frameworks ####
