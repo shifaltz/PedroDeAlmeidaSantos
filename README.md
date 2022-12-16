@@ -8,6 +8,7 @@
 ### ✉️ Entre em contato ###
 <a href="https://www.linkedin.com/in/pedro-almeida-santos-6a4569196/" target="_blank">{target="_blank"}
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+[Google](https://google.com){target="_blank"}
 ##
 
 #### Linguagens e Frameworks ####
