@@ -32,7 +32,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-<h4 align="left">Estudando...<img width="15px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/hourglass-done_231b.png"/></h2>
+<h4 align="left">Estudando..</h4>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ##
